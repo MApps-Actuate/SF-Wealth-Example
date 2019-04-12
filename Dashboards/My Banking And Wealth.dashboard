@@ -4283,7 +4283,7 @@
     </body>
     <property name="dashboardView">
         <dashboard id="2">
-            <property name="activeTab">049f219c-22c5-445b-8bb1-b28f150e1ef51</property>
+            <property name="activeTab">a85ab8ca-5c7e-4d97-9024-ba6434bf4881</property>
             <property name="tabs">
                 <tab-element name="049f219c-22c5-445b-8bb1-b28f150e1ef51" id="90">
                     <property name="title">My Spending History</property>
@@ -4297,7 +4297,6 @@
                             <property name="width">20.406824146981627%</property>
                             <property name="gadgets">
                                 <gadget name="Gadget_e7e4f03d-777c-4b3c-ab21-49454ea11d93" id="1012">
-                                    <property name="height">298px</property>
                                     <property name="title">My Categories</property>
                                     <property name="showTitle">false</property>
                                     <property name="showBorder">false</property>
@@ -4372,7 +4371,6 @@
                                     </property>
                                 </gadget>
                                 <gadget name="872fc000-1dbd-4d2d-a889-a7c22733340a1" id="91">
-                                    <property name="height">49px</property>
                                     <property name="zIndex">1</property>
                                     <property name="isVisible">false</property>
                                     <property name="height">49px</property>
@@ -4396,7 +4394,6 @@
                                     </property>
                                 </gadget>
                                 <gadget name="Gadget_f51023d6-360f-4026-b231-e16e74b652e7" id="1117">
-                                    <property name="height">134px</property>
                                     <property name="title">My Alerts</property>
                                     <property name="externalGadgetURI">^/Report Designs/AlertHTML.rptdocument</property>
                                     <property name="showTitle">false</property>
@@ -4436,7 +4433,6 @@
                                     </property>
                                 </gadget>
                                 <gadget name="Gadget_c3c02eba-1f76-43a2-8462-2e30269fdb1e" id="1021">
-                                    <property name="height">99px</property>
                                     <property name="title">Month Range</property>
                                     <property name="showTitle">false</property>
                                     <property name="showBorder">false</property>
@@ -4527,7 +4523,6 @@
                             <property name="width">46.25984251968504%</property>
                             <property name="gadgets">
                                 <gadget name="Gadget_1eed2406-fae5-4a25-9f27-0d90e4f2db3b" id="1053">
-                                    <property name="height">365px</property>
                                     <property name="title">My Merchants</property>
                                     <property name="showTitle">false</property>
                                     <property name="showBorder">false</property>
@@ -4569,7 +4564,6 @@
                                     </property>
                                 </gadget>
                                 <gadget name="Gadget_a7dd0954-e852-4629-9243-4240849a6534" id="1060">
-                                    <property name="height">306px</property>
                                     <property name="title">My Spend This Period</property>
                                     <property name="showTitle">false</property>
                                     <property name="showBorder">false</property>
@@ -4616,7 +4610,6 @@
                             <property name="width">33.33333333333333%</property>
                             <property name="gadgets">
                                 <gadget name="Gadget_8e7ba04a-48f8-4bf0-86de-179aeb89e6e41" id="110">
-                                    <property name="height">365px</property>
                                     <property name="title">My Spend By Payment Method</property>
                                     <property name="showTitle">false</property>
                                     <property name="showBorder">false</property>
@@ -4658,7 +4651,6 @@
                                     </property>
                                 </gadget>
                                 <gadget name="Gadget_49cf5979-54a3-47ae-bf20-497f231adb9a1" id="107">
-                                    <property name="height">306px</property>
                                     <property name="title">My Spend By Account</property>
                                     <property name="showTitle">false</property>
                                     <property name="showBorder">false</property>
@@ -4715,7 +4707,6 @@
                             <property name="width">33.33333333333333%</property>
                             <property name="gadgets">
                                 <gadget name="Gadget_1869f32b-d96e-47be-8bff-4b6a62796d351212" id="135">
-                                    <property name="height">370px</property>
                                     <property name="title">My Travel Goal Progress</property>
                                     <property name="externalGadgetURI">^/Report Designs/world_trip.rptdesign</property>
                                     <property name="showTitle">false</property>
@@ -4752,7 +4743,6 @@
                                     </property>
                                 </gadget>
                                 <gadget name="Gadget_9bdd651e-d57d-45b8-89d8-14234d155e38" id="1043">
-                                    <property name="height">401px</property>
                                     <property name="title">My Account Performance At-A-Glance</property>
                                     <property name="externalGadgetURI">^/Report Designs/Account Overview.rptdocument</property>
                                     <property name="showTitle">false</property>
@@ -4792,7 +4782,6 @@
                                     </property>
                                 </gadget>
                                 <gadget name="7d72f8c7-b11e-4fe0-9849-b2838c18c62d2" id="125">
-                                    <property name="height">47px</property>
                                     <property name="zIndex">7</property>
                                     <property name="isVisible">false</property>
                                     <property name="height">47px</property>
@@ -4806,7 +4795,6 @@
                             <property name="width">33.267716535433074%</property>
                             <property name="gadgets">
                                 <gadget name="Gadget_691236c0-a227-42af-aa53-c5aa6267b243" id="128">
-                                    <property name="height">370px</property>
                                     <property name="title">My Account Update</property>
                                     <property name="externalGadgetURI">^/Report Designs/Account Overview Table.rptdesign</property>
                                     <property name="showTitle">false</property>
@@ -4846,7 +4834,6 @@
                                     </property>
                                 </gadget>
                                 <gadget name="Gadget_d78172c1-3cfe-4b24-85fe-faab584d45042" id="1168">
-                                    <property name="height">402px</property>
                                     <property name="title">Investment Account Comparison</property>
                                     <property name="externalGadgetURI">/Applications/SFWealthApp/Report Designs/AssetAllocation.rptdocument</property>
                                     <property name="showTitle">false</property>
@@ -4888,7 +4875,6 @@
                             <property name="width">33.3989501312336%</property>
                             <property name="gadgets">
                                 <gadget name="Gadget_0f3fc0bc-9382-4a2d-ad6e-f036010e29e8" id="130">
-                                    <property name="height">370px</property>
                                     <property name="title">My Transaction History</property>
                                     <property name="externalGadgetURI">^/Report Designs/TransactionHistory.rptdesign</property>
                                     <property name="showTitle">false</property>
@@ -4927,7 +4913,6 @@
                                     </property>
                                 </gadget>
                                 <gadget name="Gadget_aaeb6255-810d-4177-b65f-ecd5f0d3cdd912" id="137">
-                                    <property name="height">371px</property>
                                     <property name="title">My Wealth vs. State Avg</property>
                                     <property name="externalGadgetURI">^/Report Designs/My Wealth vs Geo.rptdesign</property>
                                     <property name="showTitle">false</property>
@@ -4979,7 +4964,6 @@
                             <property name="width">28.978102189781023%</property>
                             <property name="gadgets">
                                 <gadget name="Gadget_1e60ced4-f984-4be0-b040-aa4ab313168f" id="1149">
-                                    <property name="height">690px</property>
                                     <property name="title">Retirement Planner App</property>
                                     <property name="externalGadgetURI">^/Report Designs/roadmap descr.rptdesign</property>
                                     <property name="showTitle">false</property>
@@ -5015,7 +4999,6 @@
                                     </property>
                                 </gadget>
                                 <gadget name="64785e37-4d0d-49b0-a9b2-bdcea2213e06" id="1152">
-                                    <property name="height">150px</property>
                                     <property name="zIndex">1</property>
                                     <property name="isVisible">false</property>
                                     <property name="height">150px</property>
@@ -5039,7 +5022,6 @@
                             <property name="width">71.02189781021899%</property>
                             <property name="gadgets">
                                 <gadget name="Gadget_ebae94ca-a76a-4a95-bd12-dad9eab792dd12" id="1156">
-                                    <property name="height">902px</property>
                                     <property name="title">Retirement Forecast</property>
                                     <property name="externalGadgetURI">/Report Designs/Retirement.rptdesign</property>
                                     <property name="showTitle">false</property>
@@ -5077,10 +5059,10 @@
                                             <property name="paramSettings">
                                                 <param-setting>
                                                     <property name="paramName">pRetireYear</property>
-                                                    <property name="displayText">2041</property>
-                                                    <expression name="value">2041</expression>
+                                                    <property name="displayText">2074</property>
+                                                    <expression name="value">2074</expression>
                                                     <property name="isHidden">true</property>
-                                                    <expression name="defaultValue" type="javascript">2041</expression>
+                                                    <expression name="defaultValue" type="javascript">2074</expression>
                                                 </param-setting>
                                                 <param-setting>
                                                     <property name="paramName">pStrategy</property>
